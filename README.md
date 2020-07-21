@@ -21,7 +21,9 @@
 - Request Caching
 - Request Rate Limit
 
-* On Start Swagger UI is loaded
+On Start Swagger UI is loaded
+
+Note: No need to run migration, database is created automatically on first start
 
 ## The Databse is organized in a way that it can be easily extend in the future
 
@@ -125,3 +127,4 @@ When the application is ran the two projects in the source folder are going to b
 - Logging Should be added
 - Authentication Should be added
 - More functionality can be exposed through additional endpoints to manage Currencies, CardIssuers, Payments, PaymentCards, etc.
+- More comprehensive testing needs to be done  - database, network, external calls, integration testing, et.c
