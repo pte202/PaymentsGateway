@@ -127,4 +127,4 @@ When the application is ran the two projects in the source folder are going to b
 - Logging Should be added
 - Authentication Should be added
 - More functionality can be exposed through additional endpoints to manage Currencies, CardIssuers, Payments, PaymentCards, etc.
-- More comprehensive testing needs to be done  - database, network, external calls, integration testing, et.c
+- More comprehensive testing needs to be done  - database, network, external calls, integration testing, etc.
