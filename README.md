@@ -6,7 +6,6 @@
 ### SQL Server has been used to store data
 ### Xunit has been used to perform Unit tests
 ### Swagger has been included to document the APIs
-### API Versioning is also included
 
 ## The solutions is formed of:
 
@@ -17,6 +16,12 @@
   - PaymentsGateway.UnitTests Project
   
 ## PaymentsGateway Project 
+
+- API Versioning
+- Request Caching
+- Request Rate Limit
+
+* On Start Swagger UI is loaded
 
 ## The Databse is organized in a way that it can be easily extend in the future
 
@@ -32,7 +37,6 @@ Initialization Data:
 - Payments 
 
 ```csharp
-[
   new Payment
   {
       Id = 1,
@@ -44,7 +48,6 @@ Initialization Data:
       Method = "Card",
       PaymentCardId = 1
   }
-]
 ```
 
 - PaymentCards
@@ -73,7 +76,6 @@ Initialization Data:
 - PaymentIssuers
 
 ```csharp
-[
   new PaymentCardIssuer
   {
     Id = 1,
@@ -92,13 +94,11 @@ Initialization Data:
     Name = "Mastercard", 
     Pattern = @"^5[1-5][0-9]{5,}|222[1-9][0-9]{3,}|22[3-9][0-9]{4,}|2[3-6][0-9]{5,}|27[01][0-9]{4,}|2720[0-9]{3,}$" 
   }
-]
 ```
 
 - Currencies
 
 ```csharp
-[
   new Currency
   {
       Id = 1,
@@ -111,7 +111,6 @@ Initialization Data:
       Name = "United States Dollar",
       Code = "USD"
   }
-]
 ```
 
 ## Running the application
