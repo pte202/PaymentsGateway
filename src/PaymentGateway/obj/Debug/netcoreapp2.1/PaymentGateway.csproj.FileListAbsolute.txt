@@ -1,0 +1,16 @@
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.AssemblyInfoInputs.cache
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.AssemblyInfo.cs
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.RazorAssemblyInfo.cache
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.RazorAssemblyInfo.cs
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\PaymentGateway.deps.json
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\PaymentGateway.runtimeconfig.json
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\PaymentGateway.runtimeconfig.dev.json
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\PaymentGateway.dll
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\bin\Debug\netcoreapp2.1\PaymentGateway.pdb
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.RazorTargetAssemblyInfo.cache
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.dll
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.pdb
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.genruntimeconfig.cache
+D:\Work\VSProjects\CheckoutPayments\PaymentGateway\obj\Debug\netcoreapp2.1\PaymentGateway.csprojAssemblyReference.cache

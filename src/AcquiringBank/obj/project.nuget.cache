@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPkjSxoOeaG5K9rfjqZKSbBprRKvMimqNtJYHDTyJDnqKjKJxhnXlgXcdafZLdoWJpjr6eW2sd2RIEgbZiCqBg==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\AcquiringBank\\AcquiringBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

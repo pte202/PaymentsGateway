@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PaymentGateway</name>
+    </assembly>
+    <members>
+        <member name="M:PaymentGateway.Controllers.PaymentsController.GetPayment(System.String)">
+            <summary>
+            Get a single payment provided an unique identifier
+            </summary>
+            <response code="200">Returns a payment based on given identifier</response>
+        </member>
+        <member name="M:PaymentGateway.Controllers.PaymentsController.CreateCardPayment(PaymentGateway.Models.RequestCardPaymentDto)">
+            <summary>
+            Performs an payment requests and create a record of it in the system database
+            </summary>
+            <response code="201">Creates a payment record</response>  
+            <response code="422">Unprocessable entity provided</response>
+            <response code="400">Unable to complete request due to request validation failure</response>
+        </member>
+    </members>
+</doc>
