@@ -90,7 +90,11 @@ namespace PaymentGateway.Migrations
             migrationBuilder.InsertData(
                 table: "Currencies",
                 columns: new[] { "Id", "Code", "Name" },
-                values: new object[] { 1, "GBP", "Pound sterling" });
+                values: new object[,]
+                {
+                    { 1, "GBP", "Pound sterling" },
+                    { 2, "USD", "United States Dollar" }
+                });
 
             migrationBuilder.InsertData(
                 table: "PaymentCardIssuers",
@@ -105,7 +109,7 @@ namespace PaymentGateway.Migrations
             migrationBuilder.InsertData(
                 table: "PaymentCards",
                 columns: new[] { "Id", "CardIssuerId", "ExpiryDate", "Number" },
-                values: new object[] { 1, 1, new DateTime(2022, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified), "4111111111111111" });
+                values: new object[] { 1, 1, new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified), "4111111111111111" });
 
             migrationBuilder.InsertData(
                 table: "Payments",

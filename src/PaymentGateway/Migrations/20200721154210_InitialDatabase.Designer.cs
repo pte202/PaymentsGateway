@@ -10,7 +10,7 @@ using PaymentGateway.DbContexts;
 namespace PaymentGateway.Migrations
 {
     [DbContext(typeof(PaymentGatewayDbContext))]
-    [Migration("20200719181057_InitialDatabase")]
+    [Migration("20200721154210_InitialDatabase")]
     partial class InitialDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -48,6 +48,12 @@ namespace PaymentGateway.Migrations
                             Id = 1,
                             Code = "GBP",
                             Name = "Pound sterling"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Code = "USD",
+                            Name = "United States Dollar"
                         });
                 });
 
@@ -136,7 +142,7 @@ namespace PaymentGateway.Migrations
                         {
                             Id = 1,
                             CardIssuerId = 1,
-                            ExpiryDate = new DateTime(2022, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            ExpiryDate = new DateTime(2020, 6, 30, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Number = "4111111111111111"
                         });
                 });

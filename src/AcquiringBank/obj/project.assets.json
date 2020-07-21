@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\AcquiringBank\\AcquiringBank.csproj",
+      "projectUniqueName": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\AcquiringBank\\AcquiringBank.csproj",
       "projectName": "AcquiringBank",
-      "projectPath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\AcquiringBank\\AcquiringBank.csproj",
+      "projectPath": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\AcquiringBank\\AcquiringBank.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\AcquiringBank\\obj\\",
+      "outputPath": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\AcquiringBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

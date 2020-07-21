@@ -67,6 +67,12 @@ namespace PaymentGateway.DbContexts
                         Id = 1,
                         Name = "Pound sterling",
                         Code = "GBP"
+                    },
+                    new Currency
+                    {
+                        Id = 2,
+                        Name = "United States Dollar",
+                        Code = "USD"
                     }
                 );
             });

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPkjSxoOeaG5K9rfjqZKSbBprRKvMimqNtJYHDTyJDnqKjKJxhnXlgXcdafZLdoWJpjr6eW2sd2RIEgbZiCqBg==",
+  "dgSpecHash": "F8dsULnMgsTIj/A3dDy03+GLjREtDIBfFreS9VpXWJDk6+xdc/jkzTi3n3Br2XGQ6G1mlbpHCkiCvAbVkPrH3A==",
   "success": true,
-  "projectFilePath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\AcquiringBank\\AcquiringBank.csproj",
+  "projectFilePath": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\AcquiringBank\\AcquiringBank.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.1.2\\microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
   ],

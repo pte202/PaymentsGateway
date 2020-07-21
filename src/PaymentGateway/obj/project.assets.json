@@ -6438,11 +6438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\PaymentGateway\\PaymentGateway.csproj",
+      "projectUniqueName": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\PaymentGateway\\PaymentGateway.csproj",
       "projectName": "PaymentGateway",
-      "projectPath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\PaymentGateway\\PaymentGateway.csproj",
+      "projectPath": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\PaymentGateway\\PaymentGateway.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\VSProjects\\CheckoutPayments\\v2\\src\\PaymentGateway\\obj\\",
+      "outputPath": "D:\\Work\\VSProjects\\CheckoutPayments\\CheckoutPayments\\src\\PaymentGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

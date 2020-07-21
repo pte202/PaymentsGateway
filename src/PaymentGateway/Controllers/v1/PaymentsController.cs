@@ -52,7 +52,7 @@ namespace PaymentGateway.Controllers
         }
 
         /// <summary>
-        /// Performs an payment requests and create a record of it in the system database
+        /// Performs a payment request and creates a record of it in the system database
         /// </summary>
         /// <response code="201">Creates a payment record</response>  
         /// <response code="422">Unprocessable entity provided</response>
