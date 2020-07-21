@@ -2,10 +2,11 @@
 
 ## This project provides a sample PaymentsGateway, which would accept payments requests from a merchant and communicate with a 3rd-party API to do the actual payouts
 
-## The project is developed with ASP.NET Core 3.1
-## SQL Server has been used to store data
-## Xunit has been used to perform Unit tests
-## Swagger has been included to document the APIs
+### The project is developed with ASP.NET Core 3.1
+### SQL Server has been used to store data
+### Xunit has been used to perform Unit tests
+### Swagger has been included to document the APIs
+### API Versioning is also included
 
 ## The solutions is formed of:
 
@@ -14,6 +15,8 @@
   - AcquiringBank Project (dummy service, which returns successful/uncessful payment request based on probability calculation - 60% success rate to easily simulate both scenarious)
 - test
   - PaymentsGateway.UnitTests Project
+  
+## PaymentsGateway Project 
 
 ## The Databse is organized in a way that it can be easily extend in the future
 
@@ -47,7 +50,6 @@ Initialization Data:
 - PaymentCards
 
 ```csharp
-[
   new PaymentCardIssuer
   {
      Id = 1,
@@ -66,7 +68,6 @@ Initialization Data:
       Name = "Mastercard", 
       Pattern = @"^5[1-5][0-9]{5,}|222[1-9][0-9]{3,}|22[3-9][0-9]{4,}|2[3-6][0-9]{5,}|27[01][0-9]{4,}|2720[0-9]{3,}$" 
   }
-]
 ```
 
 - PaymentIssuers
@@ -112,6 +113,10 @@ Initialization Data:
   }
 ]
 ```
+
+## Running the application
+
+When the application is ran the two projects in the source folder are going to be launched.
 
 ## Imrpovements for Production
 
