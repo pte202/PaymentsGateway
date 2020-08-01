@@ -1,4 +1,4 @@
-# CheckoutPayments
+# Payments Gateway
 
 ## This project provides a sample PaymentsGateway, which would accept payments requests from a merchant and communicate with a 3rd-party API to do the actual payouts
 
